@@ -1,0 +1,7 @@
+.hover-blue:hover {
+    color: blue;
+}
+
+.hover-blue {
+    cursor: context-menu;
+}
