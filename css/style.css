@@ -5,3 +5,16 @@
 .hover-blue {
     cursor: context-menu;
 }
+
+@media (max-width: 768px) {
+    .img>img {
+        margin: auto;
+    }
+    .summary>div {
+        margin: 10px 0;
+    }
+    .new {
+        margin: 10px 0;
+        ;
+    }
+}
